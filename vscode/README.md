@@ -78,3 +78,4 @@ Cody Enterprise can search context from your entire remote codebase using Source
 ## More Information
 
 See [https://cody.dev/](https://about.sourcegraph.com/cody?utm_source=marketplace.visualstudio.com&utm_medium=referral) for demos, information and more.
+Hi Ryan
