@@ -85,3 +85,5 @@ The Cody editor extensions work with:
 
 - Sourcegraph Cloud
 - Sourcegraph Enterprise Server (self-hosted) instances on version 5.1 or later
+Hello Sourcegraph!
+Goodbye

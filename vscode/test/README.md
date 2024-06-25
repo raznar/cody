@@ -16,3 +16,5 @@ Cody VScode has four kinds of tests:
    the VScode UI using Playwright. These cover more code than the integration tests
    but are harder to write and maintain because they don't have direct access to the
    Cody extension. Run them with `pnpm test:e2e`.
+Hello Sourcegraph!
+Goodbye

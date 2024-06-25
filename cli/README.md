@@ -37,3 +37,5 @@ Issues and PRs appreciated!
 ## Releases
 
 The CLI is built and published as part of the [Cody Agent](../agent/README.md).
+Hello Sourcegraph!
+Goodbye
